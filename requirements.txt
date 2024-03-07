@@ -4,7 +4,6 @@ pandas
 numpy
 streamlit
 seaborn
-matplotlib.pyplot
 os
 shutil
 zipfile
