@@ -1,0 +1,11 @@
+plotly.express
+matplotlib.cm
+pandas
+numpy
+streamlit
+seaborn
+matplotlib.pyplot
+os
+shutil
+zipfile
+datetime
