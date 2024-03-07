@@ -4,6 +4,5 @@ pandas
 numpy
 streamlit
 seaborn
-shutil
 zipfile
 datetime
