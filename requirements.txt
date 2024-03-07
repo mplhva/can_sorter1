@@ -1,4 +1,6 @@
+plotly
 plotly.express
+
 matplotlib.cm
 pandas
 numpy
